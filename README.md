@@ -1,11 +1,11 @@
 # Hi there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=YipKo&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true&count_private=false&include_all_commits=true" />
-
-- 🔭 I’m currently committed to improving my academic abilities.
-- 🌱 I’m currently learning computational imaging.
-- 👯 I’m looking to collaborate on everyone.
-- 💬 Ask me about the fun fact of Computer Vision.
+- 🔭 Currently, I am a Research Assistant in the Chinese University of Hong Kong, Shenzhen.
+- 🎓 Bachelor of Engineering in Automation (Expected).
+- 🌱 I'm dedicated to expanding my knowledge and skills in computer vision, constantly seeking opportunities to learn and grow.
+- 👯 I'm open to collaborating with fellow researchers, enthusiasts, and developers to tackle exciting challenges and drive progress in computer vision.
+- 💬 Feel free to reach out to me if you have any questions about computer vision or if you'd like to share interesting facts and insights about this fascinating field.
 - 📫 How to reach me: [wiriest.listen-0a@icloud.com](mailto:wiriest.listen-0a@icloud.com)
 - 🍖 Meat lover.
 
+Notice: Certain projects have been hidden and set as private repositories on GitHub. This decision has been made to maintain the confidentiality or proprietary nature of specific code segments or algorithms. I apologize for any inconvenience this may cause. If you have any questions or require access to specific components, please feel free to contact me.

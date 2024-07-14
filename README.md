@@ -9,5 +9,6 @@
 - 📫 How to reach me: [wiriest.listen-0a@icloud.com](mailto:wiriest.listen-0a@icloud.com)
 
 ---
-
 Notice: Certain projects have been hidden and set as private repositories on GitHub. This decision has been made to maintain the confidentiality or proprietary nature of specific code segments or algorithms. I apologize for any inconvenience this may cause. If you have any questions or require access to specific components, please feel free to contact me.
+
+![](https://komarev.com/ghpvc/?username=YipKo&style=plastic)

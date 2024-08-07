@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🔭 Just started my MPhil studies at [The Hong Kong University of Science and Technology, Guangzhou](https://www.hkust-gz.edu.cn/) ! Excited to dive into my research and connect with peers and faculty.
+- 🔭 Just started my MPhil studies at [The Hong Kong University of Science and Technology, Guangzhou](https://www.hkust-gz.edu.cn/)! Excited to dive into my research and connect with peers and faculty.
 - 🎓 Bachelor of Engineering in Automation.
 - 💼 I had an amazing time as a Research Assistant at [The Chinese University of Hong Kong, Shenzhen](https://cuhk.edu.cn/en), working under [Prof. SUN, Qilin](https://sds.cuhk.edu.cn/en/teacher/489).
 - 🌐 Check out [my blog](https://yipko.com) where I share insights and experiences.

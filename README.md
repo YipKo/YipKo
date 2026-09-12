@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Ye Ke** [🔊](https://translate.google.com.hk/?sl=zh-CN&tl=en&text=%E5%8F%B6%E6%9F%AF&op=translate), a PhD student at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), advised by [Prof. Junwei Liang](https://junweiliang.me/) at the [Precognition Lab](https://precognition.team/).
+I'm **Ye Ke** [🔈](https://translate.google.com.hk/?sl=zh-CN&tl=en&text=%E5%8F%B6%E6%9F%AF&op=translate), a PhD student at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), advised by [Prof. Junwei Liang](https://junweiliang.me/) at the [Precognition Lab](https://precognition.team/).
 
 * 🤖 My research interests broadly lie in Embodied AI, Robot Learning, and Multimodal Intelligence.
 * 🎓 I received my MPhil degree from HKUST(GZ) and my Bachelor of Engineering degree in Automation.
